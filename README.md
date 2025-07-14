@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hey! Im David
+Hola soy David Marcos. Me apasiona crear interfaces modernas, accesibles y optimizadas para ofrecer la mejor experiencia de usuario.
+En mi portafolio encontrarás proyectos donde combino diseño atractivo, rendimiento optimizado y usabilidad, siempre siguiendo las mejores prácticas de desarrollo web.
+Si buscas a alguien que transforme ideas en experiencias digitales intuitivas y eficientes, ¡estás en el lugar correcto!
 
-
+https://davidmarcosj.com/
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dmj_frontend) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marcos-juzgado-07b359144/)
 
